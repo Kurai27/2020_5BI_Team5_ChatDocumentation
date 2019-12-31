@@ -99,8 +99,28 @@ Since the application is written and based in python, there are next to no const
 
 #### 3.1 - Operational Requirements
 
-_Usability_ : 66% of users will not need to read the user manual to be able to use the application.
+_Usability_ : 90% of users will not need to read the user manual to be able to use the application.
 
 #### 3.2 - Performance Requirements
 
 _Maintainability_ : Changes made to the client can be adopted without altering the server application. Changes to the protocol itself, such as packet length, adding a new type of packet or deleting an unused one, will lead to changes in the code of both clients and server.
+
+#### 3.3 - Security Requirements
+
+The Project: Chat Protocol app's features can be utilized only by users after a secure login in a page initialized as the first view of the app. Passwords can be changed at any time and periodical changes of all passwords are not mandatory, but suggested.
+
+#### 3.4 - Documentation and Training
+
+The Project: Chat Protocol application will be delivered to users as a download without documentation or training except for a readme file containing basic information on the app, its stakeholders and creators. System documentation will be provided to project stakeholders.
+
+#### 3.5	- External Interface
+
+##### 3.5.1	- User Interface
+
+The user interface will be eye-catching but more functional than visually appealing.  When users access their accounts, the interface will move to the chat portion of the app modeled with Python Tkinter, which has a simple and easily understandable look and feel.
+
+The interface will be intuitive. No training will be provided and it is expected that 90% of users will be able to use the app without any training.
+
+##### 3.5.2	- Software Interface
+
+The Project: Chat Protocol server will serve as an interface between the clients. It will enable interaction between the users and give the single users information about the state of other users in the network.
