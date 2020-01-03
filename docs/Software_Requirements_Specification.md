@@ -103,7 +103,7 @@ _Usability_ : 90% of users will not need to read the user manual to be able to u
 
 #### 3.2 - Performance Requirements
 
-_Maintainability_ : Changes made to the client can be adopted without altering the server application. Changes to the protocol itself, such as packet length, adding a new type of packet or deleting an unused one, will lead to changes in the code of both clients and server.
+_Maintainability_ : Changes made to the client can be adopted without altering the server application. Changes to the protocol itself, such as packet length, adding a new type of packet or deleting an unused one, will lead to changes in the code of the client, more specifically to the protocol definition.
 
 #### 3.3 - Security Requirements
 
@@ -111,7 +111,7 @@ The Project: Chat Protocol app's features can be utilized only by users after a 
 
 #### 3.4 - Documentation and Training
 
-The Project: Chat Protocol application will be delivered to users as a download without documentation or training except for a readme file containing basic information on the app, its stakeholders and creators. System documentation will be provided to project stakeholders.
+The Project: Chat Protocol application will be delivered to users as a download without documentation or training except for a readme file containing basic information on the app, its stakeholders and creators. System documentation will be provided to project stakeholders as well.
 
 #### 3.5	- External Interface
 
@@ -124,3 +124,67 @@ The interface will be intuitive. No training will be provided and it is expected
 ##### 3.5.2	- Software Interface
 
 The Project: Chat Protocol server will serve as an interface between the clients. It will enable interaction between the users and give the single users information about the state of other users in the network.
+
+#### 4 - Functional Requirements
+
+##### 4.1 - Required features
+
+###### 4.1.1 - Use Case: 1
+
+**Description: User Login / Sending a message**
+
+Actors: Any student, teacher or school personnel
+
+Basic Path
+
+	1. User opens the Project: Chat Protocol application
+	2. The app opens on a login page
+	3. The user inserts his username and his password in the forms. If he does not have an account yet, he can click on register to create one
+	4. The user inserts correct information,the app opens a main page where the user can send messages and check recieved ones.
+	5. User selects the user/s he wants to send a message to and types the text, then presses the send button
+	6. User continues to chat until he sees fit
+	7. User clicks Logoff
+	8. System exits and reverts to the login page
+
+Alternate path
+	1. User opens the Project: Chat Protocol application
+	2. The app opens on a login page
+	3. The user inserts his username and his password in the forms.
+	4. The user inserts wrong information, the app displays an error message.
+	5. The app prompts the user to either retry to insert his information or to exit
+	6. If this option is selected, the system exits to desktop
+
+###### 4.1.2 - Use Case: 2
+
+**Description: Check all online users**
+
+Actors: Any student, teacher or school personnel
+
+Basic Path
+
+	1. User opens the Project: Chat Protocol application
+	2. Following Login [Use Case 1 Step 3:4]: System opens main page.
+	3. User clicks the Check Users button
+	4. The app returns a list of all users currently logged in that the user can interact with
+	5. The app returns to its main page, prompting either to log off or to send a message to Users
+	6. User clicks Logoff
+	7. System exits and reverts to the login page
+
+##### 4.2	Optional Features
+
+###### 4.2.1	Use Case: 3
+
+**Description: Check all users, online or offline**
+
+Actors: Any student, teacher or school personnel
+
+Basic Path
+
+	1. Following Login [Use Case 1 Step 6]: System displays main page.
+	2. User clicks Check Users.
+	3. System displays all online users.
+	4. User checks a "Display offline users" box below Check Users.
+	5. System displays in a different color all users that the server has interacted with, online or offline.
+	6. After pressing a back button, the app returns to the main page
+	7. User clicks Logoff
+	8. System exits and reverts to the login page
