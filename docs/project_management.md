@@ -3,9 +3,13 @@
 ## Team 5
 ### Team members:
 Bodini Cristian
+
 Di Nunzio Giovanni
+
 Godoi Igor
+
 Molinari Pietro
+
 Pareti Nicholas
 
 ---
@@ -90,24 +94,24 @@ For projects that don’t have a separate communication plan, this section may a
 
 *Partial Example*
 
-	Weekly –  Team meeting. 
-	Project participants report status, 
+	Weekly –  Team meeting.
+	Project participants report status,
 	progress and potential problems.
 
-	28/12/2019 – Critical Design Review. 
+	28/12/2019 – Critical Design Review.
 	Formal inspection of product architecture.
 
-	03/01/2020 – Executive Review. 
+	03/01/2020 – Executive Review.
 	The project manager presents current project
 	status to project sponsor and senior executives.
 
 ## Project measurements
-Product and process measures support project management and estimation by analogy. At the beginning of a project, estimates are made for product size, project cost and delivery dates. 
+Product and process measures support project management and estimation by analogy. At the beginning of a project, estimates are made for product size, project cost and delivery dates.
 
 During a project, progress is tracked with measures of actual effort, integrated lines of code and actual expenditures. Keeping track of estimates and actuals during a project helps to calibrate whatever technique is being used to make estimates. Storing project performance data on completed projects provides a rich source of data for estimating future projects.
 
 ## Supporting process plans
-### 1. Risk management plan 
+### 1. Risk management plan
 Identify technical and managerial risks. Prioritize risks. Consider the probability of each risk turning into a problem and the likely consequences.
 
 For the highest priority risks, what actions will be taken to minimize the probability of the risk turning into a problem and the resulting consequences? What are the contingency plans for selected risks that do become a problem? Identify processes for monitoring risks and updating the risk management plan.
@@ -125,14 +129,13 @@ Configuration management plans for this document and other baselined work produc
 The verification and validation plan defines what actions are being taken to assure the quality of the development process and resulting software products.
 
 	*Partial example*
-	The Verification and Validation plan is 
-	specified as a 
+	The Verification and Validation plan is
+	specified as a
 	separate documented located in the
-	version control 
+	version control
 	system at: http://company.com/svn/project-name/docs/VandVPlan.doc
-	
+
 ### 4. Product acceptance plan
-The product acceptance plan defines what is acceptable in terms of product quality and product functionality. 
+The product acceptance plan defines what is acceptable in terms of product quality and product functionality.
 
 Acceptance criteria should be objective and measurable. Note product success is one aspect of project success. Teams wanting to establish a clear understanding of what will be considered acceptable project performance may want to define a more general plan for project success that includes quantitative goals for delivery date, cost, etc.
-

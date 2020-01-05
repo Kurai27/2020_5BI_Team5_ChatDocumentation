@@ -46,7 +46,7 @@
 
 		4.2.1 Use Case: 3
 
-	
+
 
 
 ## 1 - Introduction
@@ -129,7 +129,8 @@ The Project: Chat Protocol server will serve as an interface between the clients
 
 ##### 4.1 - Required features
 
-###### 4.1.1 - Use Case: 1
+##### 4.1.1 - Use Case: 1
+<br>
 
 **Description: User Login / Sending a message**
 
@@ -139,9 +140,12 @@ Basic Path
 
 	1. User opens the Project: Chat Protocol application
 	2. The app opens on a login page
-	3. The user inserts his username and his password in the forms. If he does not have an account yet, he can click on register to create one
-	4. The user inserts correct information,the app opens a main page where the user can send messages and check recieved ones.
-	5. User selects the user/s he wants to send a message to and types the text, then presses the send button
+	3. The user inserts his username and his password in the forms. If he does not
+	 have an account yet, he can click on register to create one
+	4. The user inserts correct information,the app opens a main page where the
+	user can send messages and check recieved ones.
+	5. User selects the user/s he wants to send a message to and types the
+	text, then presses the send button
 	6. User continues to chat until he sees fit
 	7. User clicks Logoff
 	8. System exits and reverts to the login page
@@ -165,8 +169,10 @@ Basic Path
 	1. User opens the Project: Chat Protocol application
 	2. Following Login [Use Case 1 Step 3:4]: System opens main page.
 	3. User clicks the Check Users button
-	4. The app returns a list of all users currently logged in that the user can interact with
-	5. The app returns to its main page, prompting either to log off or to send a message to Users
+	4. The app returns a list of all users currently logged in that the user
+	can interact with
+	5. The app returns to its main page, prompting either to log off or to send
+	a message to Users
 	6. User clicks Logoff
 	7. System exits and reverts to the login page
 
@@ -184,7 +190,8 @@ Basic Path
 	2. User clicks Check Users.
 	3. System displays all online users.
 	4. User checks a "Display offline users" box below Check Users.
-	5. System displays in a different color all users that the server has interacted with, online or offline.
+	5. System displays in a different color all users that the server
+	has interacted with, online or offline.
 	6. After pressing a back button, the app returns to the main page
 	7. User clicks Logoff
 	8. System exits and reverts to the login page
