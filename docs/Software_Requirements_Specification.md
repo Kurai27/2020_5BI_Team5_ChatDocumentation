@@ -46,7 +46,7 @@
 
 		4.2.1 Use Case: 3
 
-		4.2.2 Use Case: 4  
+	
 
 
 ## 1 - Introduction
