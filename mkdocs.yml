@@ -4,7 +4,7 @@ nav:
     - 'Project Charter': 'charter01.md'
     - 'Software Requirements Specification': 'Software_Requirements_Specification.md'
     - 'Software Project Management Plan': 'project_management.md'
-    -'Test Case Specification': 'test_case_specification.md'
+    - 'Test Case Specification': 'test_case_specification.md'
 
 
 theme:
