@@ -47,7 +47,7 @@ Expected Results | System displays error alert and prompts the user to either re
 
 Test ID | 1.3
 ---|---
-Title | Incorrect User Dara
+Title | Incorrect User Data
 Feature  | Login to the chat server with the application
 Objective | Confirm that invalid username and password denies access to the website and prompts a retry
 Setup | Windows device has the Project: Chat Protocol code and a proper python interpreter
@@ -57,10 +57,20 @@ Expected Results | System displays error alert and prompts the user to either re
 
 Test ID | 1.4
 ---|---
-Title | Select Option Chat
+Title | Select Option "Chat"
 Feature | Select a user and start a chat with them
 Objective | Confirm that the app is able to recognize the target username and send a text message
 Setup | Two Windows devices connected to the same network, the app code and an interpreter
 Test Data |
 Test Action | 1. Start the Chat Application on both devices <br> 2. Have both devices logged into different accounts <br> 3. Have one of the users type the other's username in the provided form and press "chat", then type a test message and send it <br> 3. have the other user check for messages to retrieve the test message
 Expected Results | User 1's message arrives to User 2, who's notified of this, can see the message and is prompted to reply if he so chooses.
+
+Test ID | 1.5
+---|---
+Title | Select Option "Check Users"
+Feature | Obtain a view containing all online Users
+Objective | Confirm that the app is able to recognize all online users, create a list of them and send it to a user that asked for it.
+Setup | Five devices connected to the same network, the app code and an interpreter
+Test Data |
+Test Action | 1. Start the application on all devices and have each of them log into a different account<br>2. Have User1 click the "Check Users" option next to the "Chat" option<br>3. Check the list the server sends to User1 to see if it contains all of the other users used in the test.
+Expected Results | User1 can view a list of all other users (from User2 to User5)
