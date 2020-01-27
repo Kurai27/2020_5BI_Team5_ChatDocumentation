@@ -47,7 +47,7 @@ Expected Results | System displays error alert and prompts the user to either re
 
 Test ID | 1.3
 ---|---
-Title | Incorrect User Dara
+Title | Incorrect User Data
 Feature  | Login to the chat server with the application
 Objective | Confirm that invalid username and password denies access to the website and prompts a retry
 Setup | Windows device has the Project: Chat Protocol code and a proper python interpreter
