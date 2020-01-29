@@ -67,7 +67,7 @@ Include in this section plans and procedures for tracking progress and controlli
 
 For projects that don’t have a separate communication plan, this section may also include information on the timing and content of status reports and other project review documentation.
 
-*Partial Example*
+**Partial Example**
 
 	Weekly –  Team meeting.
 	Project participants report status,
@@ -91,24 +91,30 @@ Identify technical and managerial risks. Prioritize risks. Consider the probabil
 
 For the highest priority risks, what actions will be taken to minimize the probability of the risk turning into a problem and the resulting consequences? What are the contingency plans for selected risks that do become a problem? Identify processes for monitoring risks and updating the risk management plan.
 ### 2. Configuration management plan
+
 Configuration management plans for this document and other baselined work products including review procedures and change management procedures.
 
-#### Partial example
+**Partial example**
 
-- All work products will be stored in a centralized CVS repository running on a central server.    
-- The naming convention for documents will be: NNN-VVV.suffix where NNN is a mnemonic that reflects the function of the document, VVV is a 3 digit version number, and 'suffix' is the standard/normal suffix for the document type. For example, the second version of the requirements document created as a Microsoft Word document might be labeled: REQ-002.doc.    
-- All project (work products) items (documents, source code, test cases, program data, test data, etc) will be stored in the CVS repository but not all will be under change control (subject to formal change control procedures.) Only the system requirements, project plan and source code will be baselined and under configuration control.   
-- Items that are subject to change control will be considered baselined after a group review at the end of the life cycle phase during which they are created. Baselined here means that the product has undergone a formal review and can only be changed through the prescribed change control procedures.  
-- The change control procedure once a product is baselined is: (1) anyone wanting to make a change to a baselined item sends an email to the rest of the group describing the change, reason for the change, expected impact, and timeline for integrating the change. (2) if no one responds to the group within 2 days with a reason for why the change request shouldn't be permitted, it will be considered accepted and the person proposing the change may proceed with the change. If anyone does object to the change, the reason for objecting will be discussed at a meeting where everyone is invited to attend and voice their opinion. At the end of the meeting a democratic vote will be held to decide whether or not the change should be allowed.
-- Including a change history with all documents is encouraged but only required for baselined documents. The change history should be at the front of the work item and include: (1) the name of the person making the change, (2) brief description of what has changed, (3) reason for the change, and (4) the date the change was integrated.
+	- All work products will be stored in a centralized CVS repository running on a central server.    
+	- The naming convention for documents will be: NNN-VVV.suffix where NNN is a mnemonic that reflects the function of the 	document, VVV is a 3 digit version number, and 'suffix' is the standard/normal suffix for the document type. For example, the second version of the requirements document created as a Microsoft Word document might be labeled: REQ-002.doc.    
+	- All project (work products) items (documents, source code, test cases, program data, test data, etc) will be stored in the CVS repository but not all will be under change control (subject to formal change control procedures.) Only the system requirements, project plan and source code will be baselined and under configuration control.   
+	- Items that are subject to change control will be considered baselined after a group review at the end of the life cycle phase during which they are created. Baselined here means that the product has undergone a formal review and can only be changed through the prescribed change control procedures.  
+	- The change control procedure once a product is baselined is: 
+		1. anyone wanting to make a change to a baselined item sends an email to the rest of the group describing the change, reason for the change, expected impact, and timeline for integrating the change. 
+		2. if no one responds to the group within 2 days with a reason for why the change request shouldn't be permitted, it will be considered accepted and the person proposing the change may proceed with the change. If anyone does object to the change, the reason for objecting will be discussed at a meeting where everyone is invited to attend and voice their opinion. At the end of the meeting a democratic vote will be held to decide whether or not the change should be allowed.
+	- Including a change history with all documents is encouraged but only required for baselined documents. The change history should be at the front of the work item and include: 
+		1. the name of the person making the change, 
+		2. brief description of what has changed, 
+		3. reason for the change, and 
+		4. the date the change was integrated.
+	
 ### 3. Verification and validation plan
 The verification and validation plan defines what actions are being taken to assure the quality of the development process and resulting software products.
 
-	*Partial example*
-	The Verification and Validation plan is
-	specified as a
-	separate documented located in the
-	version control
+**Partial example**
+	
+	The Verification and Validation plan is specified as a separate documented located in the version control
 	system at: http://company.com/svn/project-name/docs/VandVPlan.doc
 
 ### 4. Product acceptance plan
