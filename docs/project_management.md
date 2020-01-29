@@ -14,32 +14,7 @@ Pareti Nicholas
 
 ---
 
-### Index of contents:
-- **Overview**
--1. Purpose and scope
--2. Goals and objectives
--3. Assumptions and constraints
-- **Startup plan**
--1. Team organization
--2. Project communications
--3. Technical process
--4. Tools
-- **Work plan**
--1. Activities and tasks
--2. Release plan
--3. Iteration plans
--4. Budget
-- **Control plan**
--1. Monitoring and control
--2. Metrics collections
-- **Supporting process plans**
--1. Risk management plan
--2. Configuration management
--3. Verification and validation plan
--4. Product acceptance plan
 
-
----
 ## Overview
 ### 1. Purpose and scope
 The chat protocol permits the user to communicate with other users within their own network.
@@ -118,7 +93,7 @@ For the highest priority risks, what actions will be taken to minimize the proba
 ### 2. Configuration management plan
 Configuration management plans for this document and other baselined work products including review procedures and change management procedures.
 
-####Partial example####
+#### Partial example
 
 - All work products will be stored in a centralized CVS repository running on a central server.    
 - The naming convention for documents will be: NNN-VVV.suffix where NNN is a mnemonic that reflects the function of the document, VVV is a 3 digit version number, and 'suffix' is the standard/normal suffix for the document type. For example, the second version of the requirements document created as a Microsoft Word document might be labeled: REQ-002.doc.    
