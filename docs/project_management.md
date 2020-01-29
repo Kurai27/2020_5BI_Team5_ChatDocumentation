@@ -118,7 +118,8 @@ For the highest priority risks, what actions will be taken to minimize the proba
 ### 2. Configuration management plan
 Configuration management plans for this document and other baselined work products including review procedures and change management procedures.
 
-**Partial example**
+####Partial example####
+
 - All work products will be stored in a centralized CVS repository running on a central server.    
 - The naming convention for documents will be: NNN-VVV.suffix where NNN is a mnemonic that reflects the function of the document, VVV is a 3 digit version number, and 'suffix' is the standard/normal suffix for the document type. For example, the second version of the requirements document created as a Microsoft Word document might be labeled: REQ-002.doc.    
 - All project (work products) items (documents, source code, test cases, program data, test data, etc) will be stored in the CVS repository but not all will be under change control (subject to formal change control procedures.) Only the system requirements, project plan and source code will be baselined and under configuration control.   
