@@ -101,13 +101,13 @@ Configuration management plans for this document and other baselined work produc
 - All project (work products) items (documents, source code, test cases, program data, test data, etc) will be stored in the CVS repository but not all will be under change control (subject to formal change control procedures.) Only the system requirements, project plan and source code will be baselined and under configuration control.   
 - Items that are subject to change control will be considered baselined after a group review at the end of the life cycle phase during which they are created. Baselined here means that the product has undergone a formal review and can only be changed through the prescribed change control procedures.  
 - The change control procedure once a product is baselined is: 
-	1. anyone wanting to make a change to a baselined item sends an email to the rest of the group describing the change, reason for the change, expected impact, and timeline for integrating the change. 
-	2. if no one responds to the group within 2 days with a reason for why the change request shouldn't be permitted, it will be considered accepted and the person proposing the change may proceed with the change. If anyone does object to the change, the reason for objecting will be discussed at a meeting where everyone is invited to attend and voice their opinion. At the end of the meeting a democratic vote will be held to decide whether or not the change should be allowed.
+	- anyone wanting to make a change to a baselined item sends an email to the rest of the group describing the change, reason for the change, expected impact, and timeline for integrating the change. 
+	- if no one responds to the group within 2 days with a reason for why the change request shouldn't be permitted, it will be considered accepted and the person proposing the change may proceed with the change. If anyone does object to the change, the reason for objecting will be discussed at a meeting where everyone is invited to attend and voice their opinion. At the end of the meeting a democratic vote will be held to decide whether or not the change should be allowed.
 - Including a change history with all documents is encouraged but only required for baselined documents. The change history should be at the front of the work item and include: 
-	1. the name of the person making the change, 
-	2. brief description of what has changed, 
-	3. reason for the change, and 
-	4. the date the change was integrated.
+	- the name of the person making the change, 
+	- brief description of what has changed, 
+	- reason for the change, and 
+	- the date the change was integrated.
 	
 ### 3. Verification and validation plan
 The verification and validation plan defines what actions are being taken to assure the quality of the development process and resulting software products.
