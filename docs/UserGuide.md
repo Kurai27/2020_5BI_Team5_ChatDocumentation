@@ -22,3 +22,13 @@
  * Server Chat
  * Python
  * Lib. py TkInter
+
+### Quick Started
+1. Download python from the site
+2. Download all librery needed
+3. Starts Server Chat
+4. Starts the Application
+5. 2 or more users
+----
+## Launching the application
+#### For using the app to the best, you need 2 or more users and 1 server chat working 
