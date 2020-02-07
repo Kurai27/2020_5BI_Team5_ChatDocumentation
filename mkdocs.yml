@@ -7,6 +7,9 @@ nav:
     - 'Test Case Specification': 'test_case_specification.md'
     - 'Business model canvas': 'business_model_canvas-team5.pdf'
     - 'Project model canvas': 'Project_Model_Canvas-team5.pdf'
+    - 'Project Success Criteria': 'Project_Success_Criteria.md'
+    - 'User Guide': 'User_Guide.md'
+    - 'Architecture and design': 'Architecture_and_Design.md' 
 
 
 theme:
