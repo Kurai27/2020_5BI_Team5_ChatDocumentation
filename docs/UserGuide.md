@@ -1,4 +1,4 @@
-# Chat User Guide 
+# Chat User Guide
 ## Table of Contents
  - Introduction
  - Getting Started
@@ -9,30 +9,30 @@
 
 
 ## Introduction
- The Chat Application allows two or more users to commucicate to each other using a simple process of login and registration in the school network.
- This documents will provide instructions for using the application.
+ The Chat Protocol Application allows two or more users to commucicate to each other using a simple process of login and registration in the school network.
+ This document will provide instructions for the application.
 
 ----
-## Getting Started 
+## Getting Started
 ### System Requirements
  * Same network
  * Two or more users
  * Server Chat
- * Python
+ * Python interpreter
  * Lib. py TkInter
 
 ### Quick Started
-1. Download python from the site
-2. Download all librery needed
-3. Starts Server Chat
-4. Starts the Application
-5. 2 or more users
+1. Download any python interpreter
+2. Download all libraries needed
+3. Start Server Chat
+4. Start the Application
+5. Have 2 or more users create their account and log in.
 ----
 ## Launching the application
-For using the app to the best, you need 2 or more users and 1 server chat working 
+to ensure the app's usefulness, you need 2 or more users and 1 server chat working
 
 ## Using the main menu
-After starting the application, will appear 3 buttons: registration, login and messages;
-For start using it, if you have a account, you can do the login, else you need do the registration and after do the login.
-After the login, you will have access to the message button, where you will can start to chat with another users.
-Click on new chat button, and put the username of the person you will talk, create chat, and open the chat as soon created and start to chat
+After starting the application, 3 buttons will appear: registration, login and messages;
+To start using it, if you have a account, you can do login, if you do not have one, you need to  register and after you succesfully create an account you can login.
+After the login, you will have access to the message button, where you can start to chat with other users.
+Click on new chat button, and input the username of the user you wish to talk to, create a chat, and open the chat as soon as it is created to start sending messages to another user. 
