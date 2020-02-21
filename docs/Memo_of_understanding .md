@@ -1,4 +1,4 @@
-# **MEMORANDUM OF UNDERSTANDING FOR SYSTEM NAME BEING INTERCONNECTED/DEPOYED**
+# MEMORANDUM OF UNDERSTANDING FOR SYSTEM NAME BEING INTERCONNECTED/DEPOYED
 
 ### 1. Purpose
 The purpose of this memorandum of understanding(MOU) is to serve as written understanding between Marconi Verona. This MOU documents the responsabilities of the principal organizations involved in the deployment of _System Name being deployed_
