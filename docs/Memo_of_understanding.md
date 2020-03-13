@@ -10,10 +10,10 @@ The purpose of this memorandum of understanding(MOU) is to serve as written unde
 - **Major Activities** : The main activities of the application is the management of conversations (chats) between one or more users
 
 ### 3. Responsibilities
-Make sure that the system is always active, and ready for use, it must also ensure that the recipient always receives all packages intact. 
+Make sure that the system is always active, and ready for use, it must also ensure that the recipient always receives all packages intact.
 
 ### 4. Services
-All services provided under this MOU shall be highlighted in this section, including but not limited to: 
+All services provided under this MOU shall be highlighted in this section, including but not limited to:
 - Description of the information system architecture;
 - Description of communication links;
 - Description of system specific algorithms to be implemented;
@@ -25,7 +25,7 @@ All services provided under this MOU shall be highlighted in this section, inclu
 - Data/system backed-up schedule;
 - Contingency and Disaster Recovery plans will adequately document system/data recovery efforts;
 - System security plan(s), if applicable;
-- System security risk analysis, computer security certification and accreditation, and security test and evaluation overview, if applicable. 
+- System security risk analysis, computer security certification and accreditation, and security test and evaluation overview, if applicable.
 ### 5. Duration and Amendments of the MOU
 This MOU will be reviewed annually form the date signed. The Marconi Verona System Program Manager will be responsible for this review.
 # **MEMORANDUM OF UNDERSTANDING FOR SYSTEM BEING INTERCONNECTED/DEPOYED AGREEMENT/SIGNATURE PAGE**
@@ -35,11 +35,11 @@ By signing this page, all partied agree to ensure compliance with applicable Fed
 
 _Project Manager_ Printed Name :
 
-Date : 
+Date :
 
-Signature : 
+Signature :
 
-Telephone Number : 
+Telephone Number :
 
 E-mail Address :
 
@@ -47,24 +47,22 @@ E-mail Address :
 
 _Customer Service Representative_ Printed Name:
 
-Date : 
+Date :
 
-Signature : 
+Signature :
 
-Telephone Number : 
+Telephone Number :
 
-E-mail Address : 
+E-mail Address :
 
 ----
 
 _Computer Security Officer_ Printed Name :
 
-Date : 
+Date :
 
-Signature : 
+Signature :
 
-Telephone Number : 
+Telephone Number :
 
-E-mail Address : 
-
-
+E-mail Address :
