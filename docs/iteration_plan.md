@@ -1,6 +1,6 @@
 # Iteration plan
 ## 1. Objectives
-This iteration, being the only one, introduces all the main functions of the application, which are the following:
+The iterations will serve to introduce all the main functions of the application, which are the following:
 
  - Create an account;
  - Login;
