@@ -19,4 +19,5 @@ https://www.python.org/downloads/
 >>> install it 
 
 ### Set Up the Application 
-For this we need use a Python interpreter like PyCharm, to start we need open Server app and set our IP, you can see your IP using the command IPCONFIG on CMD: example of IP: "192.168.1.168"
+For this we need use a Python interpreter like PyCharm, to start we need open Server app and set our IP, you can see your IP using the command IPCONFIG on CMD: example of IP: "192.168.1.168" and do the same on Chat app
+
