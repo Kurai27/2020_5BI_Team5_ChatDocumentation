@@ -13,11 +13,8 @@ nav:
     - 'iteration plan': 'iteration_plan.md'
     - 'release plan': 'release_plan.md'
     - 'System Documentation': 'System_Documentation.md'
-<<<<<<< HEAD
-    - 'Memo of undestanding': 'Memo_of_understanding.md'
-=======
     - 'Memo of understanding': 'Memo_of_understanding.md'
->>>>>>> 603837677da452027f0b64bdd1403195ee93989c
+
 
 
 theme:
