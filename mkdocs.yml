@@ -14,6 +14,15 @@ nav:
     - 'release plan': 'release_plan.md'
     - 'System Documentation': 'System_Documentation.md'
     - 'Memo of understanding': 'Memo_of_understanding.md'
+    - 'Memo of understanding': 'Memo_of_understanding.pdf'
+    - 'Release Plan': 'release_plan.pdf'
+    - 'Iteration Plan': 'iteration_plan.pdf'
+    - 'Project Success Criteria': 'Project_Success_Criteria.pdf'
+    - 'Architecture and design': 'Architecture_And_Design.pdf'
+    - 'Coding Standars': 'coding_standards.pdf'
+    - 'Test Plan': 'test_plan.pdf'
+    - 'Test Case Specification': 'test_case_specification.pdf'
+    - 'System documentation': 'System_Documentation.pdf'
 
 
 
